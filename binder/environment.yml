@@ -4,3 +4,4 @@ dependencies:
 - mpich
 - mpi4py
 - numpy
+- lammps
