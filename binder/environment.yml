@@ -1,7 +1,7 @@
 channels:
 - conda-forge
 dependencies:
-- mpich
+- openmpi
 - mpi4py
 - numpy
 - lammps
